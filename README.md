@@ -1,4 +1,4 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxxmnmn&show_icons=true&theme=discord_old_blurple)
 
 <!--
 **lxxmnmn/lxxmnmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
