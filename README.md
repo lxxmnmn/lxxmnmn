@@ -2,7 +2,7 @@
   <h3>🍑 Me 🍑</h3>
   <h4>Minjeong Lee</h4>
   <p>
-    <img src="https://img.shields.io/badge/Gmail-gray?style=flat&logo=Gmail&logoColor=EA4335"/>
+    <a href="mailto:lxxmnmn@gmail.com"><img src="https://img.shields.io/badge/Gmail-gray?style=flat&logo=Gmail&logoColor=EA4335"/></a>
   </p>
 
   #
