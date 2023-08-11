@@ -19,8 +19,7 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=oracle&logoColor=F80000"/>&nbsp;&nbsp;
