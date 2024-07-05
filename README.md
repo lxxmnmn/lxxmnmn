@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/TypeScript-a9cef8?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-a9cef8?style=flat&logo=React&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-a9cef8?style=flat&logo=Vuedotjs&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React%20Query-a9cef8?style=flat&logo=reactquery&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TanStack%20Query-a9cef8?style=flat&logo=reactquery&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vuex-a9cef8?style=flat&logo=Vuedotjs&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SCSS-a9cef8?style=flat&logo=sass&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/styled%20components-a9cef8?style=flat&logo=styledcomponents&logoColor=white"/>
