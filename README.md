@@ -3,13 +3,13 @@
   
   <ul style="list-style: none;">
     <summary>
-      <h2>Frontend Developer 🐰🤍</h2>
+      <h2>Front-end Developer</h2>
     </summary>
   </ul>
-  
+
   <br/>
   
-  <h3>Experience</h3>
+  <h3>Experiences</h3>
   <p>
     🚀 2024 OSSCA Githru vscode extension Contributor<br/>
     🚀 DDD 9th Web front-end developer<br/>
