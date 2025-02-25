@@ -1,11 +1,11 @@
 <div id="user-content-toc" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:a9cef8,100:fdcdf2&fontColor=5c545b&height=200&section=header&text=minjeong&fontSize=90" />
-  
   <ul style="list-style: none;">
     <summary>
       <h2>Front-end Developer</h2>
     </summary>
   </ul>
+  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:a9cef8,100:fdcdf2&fontColor=5c545b&height=200&section=header&text=minjeong&fontSize=90" />
 
   <br/>
   
@@ -23,7 +23,6 @@
   <br/>
   
   <h3>Skills</h3>
-
   <p>
     <img src="https://img.shields.io/badge/JavaScript-a9cef8?style=flat&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-a9cef8?style=flat&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
@@ -32,12 +31,13 @@
     <img src="https://img.shields.io/badge/TanStack%20Query-a9cef8?style=flat&logo=reactquery&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Zustand-a9cef8?style=flat&logo=zustand&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Vuex-a9cef8?style=flat&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/jQuery-a9cef8?style=flat&logo=jquery&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Pinia-a9cef8?style=flat&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Sass-a9cef8?style=flat&logo=sass&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/styled--components-a9cef8?style=flat&logo=styled-components&logoColor=white"/>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Git-fdcdf2?style=flat&logo=git&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-fdcdf2?style=flat&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Figma-fdcdf2?style=flat&logo=figma&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Notion-fdcdf2?style=flat&logo=notion&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Slack-fdcdf2?style=flat&logo=slack&logoColor=white"/>
